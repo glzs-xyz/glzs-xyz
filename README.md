@@ -1,3 +1,4 @@
+<p align="center">Languages</p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
@@ -6,6 +7,7 @@
   </a>
 </p>
 
+<p align="center">Data Science & Machine Learning Libraries</p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
@@ -14,6 +16,7 @@
   </a>
 </p>
 
+<p align="center">Deep Learning Frameworks</p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
@@ -22,6 +25,7 @@
   </a>
 </p>
 
+<p align="center">Game Engines</p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
